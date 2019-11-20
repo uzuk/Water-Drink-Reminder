@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+<!--    default color-->
+    <color name="default_color">#424242</color>
+    <color name="black">#000000</color>
+
+    <color name="pink">#FF4081</color>
+
+    <string-array name="colors">
+        <item>#f0f8db</item>
+        <item>#e2f0b6</item>
+        <item>#d3e992</item>
+        <item>#b6db49</item>
+        <item>#b6b49</item>
+        <item>#a8d324</item>
+        <item>#99cc00</item>
+        <item>#92c500</item>
+        <item>#8abd00</item>
+        <item>#83b600</item>
+        <item>#7caf00</item>
+        <item>#75a800</item>
+        <item>#6da000</item>
+        <item>#669900</item>
+    </string-array>
+</resources>
